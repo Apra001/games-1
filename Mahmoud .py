@@ -16,12 +16,12 @@ FPS = 30
 BLANK = None
 
 #                 R    G    B
-BLACK =         (  85, 64, 45)
-WHITE =         (155, 285, 255)
+BLACK =         (  0,   0,   0)
+WHITE =         (255, 255, 255)
 BRIGHTBLUE =    (  0,  50, 255)
 DARKTURQUOISE = (  3,  54,  73)
-GREEN =         (  0, 204,   95)
-# changed the color numbers
+GREEN =         (  0, 204,   0)
+
 BGCOLOR = DARKTURQUOISE
 TILECOLOR = GREEN
 TEXTCOLOR = WHITE
